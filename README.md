@@ -1,15 +1,23 @@
 ### Hello there 👋
 
-##  ⚡ Here is some info about me ⚡:
+####  ⚡ Here is some info about me ⚡:
 
-const kelly = {
-  pronouns: "she/her/hers",
-  languages: [HTML, CSS, JavaSCript, Python],
-  frameworks: [Express.js, React.js, Node.js, Django],
-  interests: [pizza, cooking, biking, swimming :swimmer: ,reading],
-  openToWork: true
-}
+`const kelly = {`  
 
+  ` pronouns: "she/her/hers",`  
+  
+  ` languages: [HTML, CSS, JavaScript, Python],`  
+  
+  ` frameworks: [Express.js, React.js, Node.js, Django],`  
+  
+  ` interests: [pizza, cooking, biking, swimming :swimmer: ,reading],`  
+  
+  ` openToWork: true`  
+  
+`}
+`
+ 
+  
 📫 How to reach me: zkellyhodges@gmail.com || https://www.linkedin.com/in/kelly-hodges1/
 
 <!--
